@@ -1,4 +1,4 @@
-# Creative-Programming-
+# Creative-Programming
 README (C) Hannah van Iterson and TU/e 2017
 
 ### This entire project consists of: 
@@ -16,9 +16,9 @@ This program runs in Processing 3.3.
 - Open the main file in Processing.
 - Press the Play button, or run by Ctrl+R. 
 - This program can then be used by:
-        -- Pressing the following keys on the keyboard: 'a','s','d','f','g','h','j','k','l',';' (controlling the white keys)
-        -- Pressing the following keys on the keyboard: 'w','e','t','y','u','o','p',         (controlling the black keys)
-        -- Clicking with the mouse at the buttons:       1,2,3,4                       (controlling the buttons for music) 
+    - Pressing the following keys on the keyboard: 'a','s','d','f','g','h','j','k','l',';' (controlling the white keys)
+    - Pressing the following keys on the keyboard: 'w','e','t','y','u','o','p',         (controlling the black keys)
+     - Clicking with the mouse at the buttons:       1,2,3,4                       (controlling the buttons for music) 
 
 This program was tested on Windows 10.
 
